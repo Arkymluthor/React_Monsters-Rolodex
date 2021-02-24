@@ -1,0 +1,4 @@
+*.Javascript linguist-detectable=true
+*.css linguist-detectable=true
+*.html linguist-detectable=true
+*.xml linguist-detectable=false
